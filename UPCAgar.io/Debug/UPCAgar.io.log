@@ -1,0 +1,42 @@
+﻿  MyForm.cpp
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(9,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(9,59): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(29,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(29,59): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(34,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(34,59): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(39,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(39,59): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(44,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Escenario.h(44,59): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(109,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(112,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(117,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(196,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(206,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(215,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(216,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(232,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(236,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(237,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(250,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(281,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(311,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(341,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(371,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(402,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(417,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(432,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(447,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(462,21): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(699,20): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(705,19): warning C4018: '<': no coinciden signed/unsigned
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(711): warning C4715: 'Juego::get_masa_Chile': no todas las rutas de acceso de control devuelven un valor
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(715): warning C4715: 'Juego::get_masa_Venezuela': no todas las rutas de acceso de control devuelven un valor
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(719): warning C4715: 'Juego::get_masa_Dinamarca': no todas las rutas de acceso de control devuelven un valor
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(723): warning C4715: 'Juego::get_masa_Argentina': no todas las rutas de acceso de control devuelven un valor
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(727): warning C4715: 'Juego::get_masa_Francia': no todas las rutas de acceso de control devuelven un valor
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Juego.h(707): warning C4715: 'Juego::get_masa_jugador': no todas las rutas de acceso de control devuelven un valor
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  UPCAgar.io.vcxproj -> D:\U201814268_Gino_Quispe_Calixto\Debug\UPCAgar.io.exe

@@ -1,0 +1,3 @@
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Debug\UPCAgar.io.vcxprojAssemblyReference.cache
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Debug\UPCAgario.MyForm.resources
+D:\U201814268_Gino_Quispe_Calixto\UPCAgar.io\Debug\UPCAgar.io.vcxproj.GenerateResource.cache

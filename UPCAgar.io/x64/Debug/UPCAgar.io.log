@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\Escenario.h(9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\Escenario.h(29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\Escenario.h(34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\Escenario.h(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\Escenario.h(44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\Juego.h(729): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\juego.h(711): warning C4715: 'Juego::get_masa_Chile': not all control paths return a value
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\juego.h(715): warning C4715: 'Juego::get_masa_Venezuela': not all control paths return a value
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\juego.h(719): warning C4715: 'Juego::get_masa_Dinamarca': not all control paths return a value
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\juego.h(723): warning C4715: 'Juego::get_masa_Argentina': not all control paths return a value
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\juego.h(727): warning C4715: 'Juego::get_masa_Francia': not all control paths return a value
+e:\upcagar.io - 19-02-2019\upcagar.io - laptop\upcagar.io\juego.h(707): warning C4715: 'Juego::get_masa_jugador': not all control paths return a value
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  UPCAgar.io.vcxproj -> E:\UPCAgar.io - 19-02-2019\UPCAgar.io - Laptop\x64\Debug\UPCAgar.io.exe
+  UPCAgar.io.vcxproj -> E:\UPCAgar.io - 19-02-2019\UPCAgar.io - Laptop\x64\Debug\UPCAgar.io.pdb (Partial PDB)
